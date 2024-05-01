@@ -1,4 +1,26 @@
-### Hi there 👋
+# Hi there 👋
+
+## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in `Python🐍`, `Data Science📈`, `AI🤖`, and `Web technologies🕸️`. Here's a bit more about me:
+
+## 🚀 What I'm Working On
+- "Food Panda Clone (Personal Project🤓💻)
+
+## 🌱 What I'm Learning
+- 💻Front-end-development
+- 📖Arabic
+
+
+## 🔗 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-bilal0040/)
+- 💬 [Twitter](https://twitter.com/bilal0040)
+- 🌐 [Personal Website](https://bilal00404.github.io/Bilal0040.github.io/)
+
+
+<!-- ### 🛠️ Skills and Tools
+- Programming Languages: Python, JavaScript
+- Data Science Tools: Pandas, NumPy, Scikit-learn, TensorFlow
+-->
+
 
 <!--
 **Developer-Bilal/Developer-Bilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
