@@ -11,9 +11,9 @@
 
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-bilal-bilal0040/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/engineer-bilal-channa/)
 - 💬 [Twitter](https://twitter.com/bilal0040)
-- 🌐 [Personal Website](https://bilal00404.github.io/Bilal0040.github.io/)
+- 🌐 [Personal Website](https://developer-bilal-portfolio.netlify.app/)
 
 
 <!-- ### 🛠️ Skills and Tools
