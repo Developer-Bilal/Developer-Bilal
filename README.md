@@ -2,10 +2,10 @@
 
 ## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in:
 
-- `Python🐍`
-- `Data Science📈`
-- `AI🤖`
-- `Web technologies🕸️`
+### - `Python🐍`
+### - `Data Science📈`
+### - `AI🤖`
+### - `Web technologies🕸️`
 
 Here's a bit more about me:
 
