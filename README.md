@@ -1,9 +1,16 @@
 # Hi there 👋
 
-## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in `Python🐍`, `Data Science📈`, `AI🤖`, and `Web technologies🕸️`. Here's a bit more about me:
+## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in:
+
+- `Python🐍`
+- `Data Science📈`
+- `AI🤖`
+- `Web technologies🕸️`
+
+Here's a bit more about me:
 
 ## 🚀 What I'm Working On
-- "Food Panda Clone (Personal Project🤓💻)
+- Recipe Place 🍔
 
 ## 🌱 What I'm Learning
 - 💻Front-end-development
