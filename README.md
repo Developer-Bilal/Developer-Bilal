@@ -7,7 +7,6 @@
 ### - `AI🤖`
 ### - `Web technologies🕸️`
 
-Here's a bit more about me:
 
 ## 🚀 What I'm Working On
 - Recipe Place 🍔
