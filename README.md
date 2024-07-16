@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in:
+## My name is `Bilal`, and I am an `electronics Engineer⚡` interested in the following:
 
-### - `Python🐍`
-### - `Data Science📈`
-### - `AI🤖`
-### - `Web technologies🕸️`
+- `Python🐍`
+- `Data Science📈`
+- `AI🤖`
+- `Web technologies🕸️`
 
 
 ## 🚀 What I'm Working On
