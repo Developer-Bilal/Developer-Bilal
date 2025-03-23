@@ -10,7 +10,7 @@
 
 <h3 align="left">🙋 About me:</h3>
 
-- 🔭 I’m currently working on [Task Manager Application](https://task-manager-sepia-nine.vercel.app/)
+- 🔭 I’m currently working on Task Manager Application.
 
 - 🌱 I’m currently learning **Next.js, Node.js, and Express.js**
 
